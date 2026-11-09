@@ -1,0 +1,19 @@
+# Compiled binaries (build with `make`)
+uaf1
+reuse
+desk
+tcache
+groom
+handler
+
+# Object files and build output
+*.o
+*.a
+*.so
+*.out
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+.DS_Store
